@@ -1,0 +1,29 @@
+1. CREATE: Insert a New Customer
+Add a new customer named Michael Chen with email michael.chen@example.com and phone number 555-987-6543
+
+2. READ: Select with WHERE, ORDER BY, LIMIT
+Get the top 3 customers with accounts having a balance greater than 2000, ordered by last name ascending
+
+3. UPDATE: Update with WHERE and Joins
+Increase the salary by 5% for employees who are tellers at the Downtown branch
+
+4. DELETE: Delete with WHERE and Subquery
+Delete accounts with a balance less than 1000 for customers who have only one account
+
+5. READ: Group By, Having, Order By, Offset
+List branches with more than 3 accounts, showing the branch name and total account balance, sorted by total balance descending, skipping the first branch
+
+6. READ: Complex Joins with WHERE, GROUP BY, HAVING
+For each customer with more than 1 account, calculate their total balance across accounts in the Downtown branch, returning the customer’s first name, last name, and total balance, sorted by total balance descending
+
+7. READ: Select with WHERE and LIMIT
+Get all accounts with a balance between 1000 and 3000, ordered by balance ascending, limited to 4 results
+
+8. UPDATE: Update with WHERE
+Update the email of the customer named John Doe to john.doe.updated@example.com
+
+9. READ: Select with Joins and WHERE
+List the names of managers and their branch names where the branch has at least one account with a balance over 5000
+
+10. Invalid Query: Non-existent Column
+Get all employees with experience greater than 5 years
