@@ -212,12 +212,12 @@ class SQLQueryCLI:
             print("\nDo you want to execute this SQL instruction? (yes/no/refine)")
             confirmation = input("> ").lower().strip()
             
-            if confirmation == 'no':
+            if confirmation in ['n', 'no']:
                 continue
-            elif confirmation == 'refine':
+            elif confirmation in ['r', 'refine']:
                 continue
-            elif confirmation != 'yes':
-                print("Invalid input. Please enter 'yes', 'no', or 'refine'.")
+            elif confirmation not in ['y', 'yes']:
+                print("Invalid input. Please enter 'yes', 'no', or 'refine' (or 'y', 'n', 'r').")
                 continue
             
             results = self.execute_sql(sql_query)
