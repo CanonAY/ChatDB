@@ -1,6 +1,6 @@
 # ChatDB: A Serverless System for Natural Language to SQL Translation
 
-A system that allows users to interact with AWS RDS for PostgreSQL databases using natural language. The system supports CRUD operations and complex queries including SELECT, FROM, WHERE, GROUP BY, HAVING, ORDER BY, LIMIT, and OFFSET clauses. Powered by grok-3-beta API for natural language understanding.
+A system that allows users to interact with AWS RDS for PostgreSQL databases using natural language. The system supports CRUD operations and complex queries including SELECT, FROM, WHERE, GROUP BY, HAVING, ORDER BY, LIMIT, and OFFSET clauses. Powered by grok-3-beta model for natural language understanding.
 
 ## CLI Usage
 

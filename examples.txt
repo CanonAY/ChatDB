@@ -25,5 +25,14 @@ Update the email of the customer named John Doe to john.doe.updated@example.com
 9. READ: Select with Joins and WHERE
 List the names of managers and their branch names where the branch has at least one account with a balance over 5000
 
-10. Invalid Query: Non-existent Column
+10. READ: Complex Joins with WHERE, GROUP BY, HAVING
+For each customer with more than 1 account, calculate their total balance across accounts in the Downtown branch, returning the customer’s first name, last name, and total balance, sorted by total balance descending
+
+11. Invalid Query: Non-existent Column
 Get all employees with experience greater than 5 years
+
+12. Chinese:
+请选出5个银行账户向我展示，你需要确保做出的选择是随机的
+
+13. Finnish:
+Valitse satunnaisesti 5 pankkitiliä näytettäväksi minulle. Sinun on varmistettava, että valinnat ovat satunnaisia.
