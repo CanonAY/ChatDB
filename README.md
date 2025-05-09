@@ -106,4 +106,4 @@ This project is built on a serverless architecture, where the backend logic is d
    - Exposed through API Gateway endpoint `/v1/exec_sql`
    - Runtime: Python 3.12
 
-The layers required for Lambda function dependency is included in the file tree, and the LLM API KEY shall be stored in the Lambda environment variable. 
+The layers required for Lambda function dependency is included in the file tree, and the Grok API KEY shall be stored in the Lambda environment variable. 
