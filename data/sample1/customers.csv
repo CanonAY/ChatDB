@@ -1,0 +1,11 @@
+CustomerID,FirstName,LastName,Email,PhoneNumber,Address
+C001,John,Doe,john.doe@email.com,123-456-7890,"123 Main St, City, USA"
+C002,Jane,Smith,jane.smith@email.com,987-654-3210,"456 Oak Rd, Town, USA"
+C003,Alice,Johnson,alice.johnson@email.com,555-123-4567,"789 Pine St, Suburbia, USA"
+C004,Bob,Brown,bob.brown@email.com,444-987-6543,"101 Maple Ave, City, USA"
+C005,Carol,White,carol.white@email.com,333-567-8901,"202 Birch Blvd, Town, USA"
+C006,David,Taylor,david.taylor@email.com,222-333-4444,"303 Cedar St, City, USA"
+C007,Eve,Wilson,eve.wilson@email.com,555-666-7777,"404 Elm St, Town, USA"
+C008,Frank,Davis,frank.davis@email.com,888-999-0000,"505 Maple Ave, Suburbia, USA"
+C009,Grace,Lopez,grace.lopez@email.com,123-321-4321,"606 Oak Blvd, City, USA"
+C010,Hannah,Miller,hannah.miller@email.com,654-321-9876,"707 Pine Rd, Town, USA"

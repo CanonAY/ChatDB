@@ -1,0 +1,11 @@
+EmployeeID,FirstName,LastName,JobTitle,Salary,BranchID
+E001,Mark,Johnson,Branch Manager,5000,B001
+E002,Sarah,Davis,Branch Manager,3000,B002
+E003,James,Clark,Branch Manager,5500,B003
+E004,Emma,Wilson,Teller,2900,B003
+E005,David,Lee,Teller,3100,B001
+E006,Isabella,Martinez,Branch Manager,5200,B004
+E007,Jacob,Taylor,Branch Manager,3200,B005
+E008,Mason,Jackson,Teller,3300,B004
+E009,Liam,Miller,Teller,5700,B005
+E010,Olivia,Garcia,Teller,3000,B003

@@ -1,0 +1,51 @@
+id,title,author,publication_year,genre
+1,The Great Gatsby,F. Scott Fitzgerald,1925,Fiction
+2,To Kill a Mockingbird,Harper Lee,1960,Fiction
+3,1984,George Orwell,1949,Science Fiction
+4,Pride and Prejudice,Jane Austen,1813,Romance
+5,The Catcher in the Rye,J.D. Salinger,1951,Fiction
+6,Brave New World,Aldous Huxley,1932,Science Fiction
+7,Jane Eyre,Charlotte Brontë,1847,Romance
+8,Animal Farm,George Orwell,1945,Fiction
+9,Lord of the Flies,William Golding,1954,Fiction
+10,The Hobbit,J.R.R. Tolkien,1937,Fantasy
+11,Fahrenheit 451,Ray Bradbury,1953,Science Fiction
+12,The Alchemist,Paulo Coelho,1988,Fiction
+13,The Da Vinci Code,Dan Brown,2003,Mystery
+14,Charlotte's Web,E.B. White,1952,Children's
+15,The Giver,Lois Lowry,1993,Young Adult
+16,Crime and Punishment,Fyodor Dostoevsky,1866,Fiction
+17,Wuthering Heights,Emily Brontë,1847,Romance
+18,The Odyssey,Homer,-800,Classics
+19,Moby-Dick,Herman Melville,1851,Fiction
+20,The Outsiders,S.E. Hinton,1967,Young Adult
+21,The Secret Garden,Frances Hodgson Burnett,1911,Children's
+22,Harry Potter and the Sorcerer's Stone,J.K. Rowling,1997,Fantasy
+23,The Hunger Games,Suzanne Collins,2008,Young Adult
+24,The Fault in Our Stars,John Green,2012,Young Adult
+25,The Lion, the Witch and the Wardrobe,C.S. Lewis,1950,Fantasy
+26,The Road,Cormac McCarthy,2006,Fiction
+27,The Shining,Stephen King,1977,Horror
+28,Dracula,Bram Stoker,1897,Horror
+29,Frankenstein,Mary Shelley,1818,Horror
+30,The Picture of Dorian Gray,Oscar Wilde,1890,Fiction
+31,The Bell Jar,Sylvia Plath,1963,Fiction
+32,The Handmaid's Tale,Margaret Atwood,1985,Science Fiction
+33,The Name of the Wind,Patrick Rothfuss,2007,Fantasy
+34,The Perks of Being a Wallflower,Stephen Chbosky,1999,Young Adult
+35,The Book Thief,Markus Zusak,2005,Fiction
+36,The Maze Runner,James Dashner,2009,Young Adult
+37,Divergent,Veronica Roth,2011,Young Adult
+38,A Wrinkle in Time,Madeleine L'Engle,1962,Children's
+39,The Chronicles of Narnia,C.S. Lewis,1950,Fantasy
+40,The Old Man and the Sea,Ernest Hemingway,1952,Fiction
+41,The Grapes of Wrath,John Steinbeck,1939,Fiction
+42,The Scarlet Letter,Nathaniel Hawthorne,1850,Classics
+43,The Adventures of Huckleberry Finn,Mark Twain,1884,Fiction
+44,Treasure Island,Robert Louis Stevenson,1883,Adventure
+45,The Call of the Wild,Jack London,1903,Adventure
+46,The Wind in the Willows,Kenneth Grahame,1908,Children's
+47,The Little Prince,Antoine de Saint-Exupéry,1943,Children's
+48,A Tale of Two Cities,Charles Dickens,1859,Classics
+49,The Lord of the Rings,J.R.R. Tolkien,1954,Fantasy
+50,The Diary of a Young Girl,Anne Frank,1947,Non-Fiction

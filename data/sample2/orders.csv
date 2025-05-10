@@ -1,0 +1,6 @@
+id,customer_id,product_name,order_date
+1,1,Laptop,2025-05-01
+2,1,Mouse,2025-05-02
+3,2,Phone,2025-05-03
+4,3,Headphones,2025-05-04
+5,4,Tablet,2025-05-05

@@ -1,0 +1,6 @@
+BranchID,BranchName,BranchAddress,ManagerID
+B001,Downtown,"100 Downtown St, City",E001
+B002,Uptown,"200 Uptown Ave, Town",E002
+B003,Suburbia,"300 Suburb St, Suburbia",E003
+B004,Eastside,"400 East St, City",E006
+B005,Westside,"500 West St, Town",E007
