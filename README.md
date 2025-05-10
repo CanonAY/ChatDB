@@ -106,4 +106,4 @@ This project is built on a serverless architecture, where the backend logic is d
    - Exposed through API Gateway endpoint `/v1/exec_sql`
    - Runtime: Python 3.12
 
-The layers required for Lambda function dependency is included in the file tree, and the Grok API KEY shall be stored in the Lambda environment variable. 
+The layers required for Lambda function dependency is included in the file tree. The DB_PASSWORD, DB_USER shall be configured in the Lambda environment variable of nl2sql and exec_sql Lambda functions, XAI_API_KEY shall be configured in the Lambda environment variable of nl2sql Lambda function. 
